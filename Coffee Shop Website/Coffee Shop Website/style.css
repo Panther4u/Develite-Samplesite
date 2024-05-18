@@ -1,0 +1,50 @@
+
+.navbar a{
+    text-decoration: none;
+    color: black;
+}
+.navbar a:hover{
+    color: rgb(167, 89, 60);
+}
+.home{
+    margin-top: 5rem;
+}
+ .container button{
+    border-radius: 5px;
+    padding: 5px;
+    border: 1px solid rgb(167, 89, 60);
+    color: white;
+    background: rgb(167, 89, 60);
+    transition: 0.5s;
+}
+.about{
+    margin-top: 5rem;
+}
+.top-cards{
+    margin-top: 5rem;
+}
+.menu{
+    margin-top: 5rem;
+}
+.menu .card p span{
+    float: right;
+}
+.product{
+    margin-top: 5rem;
+}
+.product .card p span{
+    float: right;
+}
+.gallary{
+    margin-top: 5rem;
+}
+.contact{
+    margin-top: 5rem;
+}
+.blogs{
+    margin-top: 5rem;
+}
+footer{
+    margin-top: 5rem;
+    background-color: rgb(167, 89, 60);
+}
